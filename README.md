@@ -1,4 +1,8 @@
 # Rubicks
 Rubicks cube solver using web-browser automation
 
-https://youtu.be/6z_pgLvXUSg   
+Repos integrated with Arduino UNO Controller: 
+    https://youtu.be/6z_pgLvXUSg   
+
+Special Thanks to 
+    https://rubiks-cube-solver.com/
